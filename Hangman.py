@@ -104,7 +104,7 @@ def guess_letter(count):
         elif guess.isdigit():
             print('Thats a fucking number idiot')
         elif len(guess) != 1:
-            print('Thats more than 1 letter retard')
+            print('Thats more than 1 letter you pratt')
         else:
             guess_attempt = False
         if guess not in word:
